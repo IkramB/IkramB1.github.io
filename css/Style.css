@@ -68,21 +68,6 @@ background-color: black;
 }
 }
 
-@media only screen and (max-width: 767px)
-.intro {
-    font-size: 22px;
-}
-
-
-@media only screen and (max-width: 767px)
-.welcome {
-    font-size: 22px;
-}
-
-@media only screen and (max-width: 767px)
-.offertext {
-    
-}
 
 
 .logo-small {  
