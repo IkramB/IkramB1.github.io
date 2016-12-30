@@ -61,16 +61,14 @@ background-color: black;
 
 
 
-@media (max-width: 500px) {
+@media (max-width: 400px) {
     .carousel-caption {
         display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
   	
 }
 }
 
-@media (max-width: 500px) {
 
-}
 
 
 
@@ -154,6 +152,16 @@ font-family: 'Raleway', sans-serif;
 	
 
 }
+
+@media (max-width: 400px) {
+    .welcom {
+        display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
+  	
+}
+}
+
+
+
 
 .intro {
 	font-family: 'Raleway', sans-serif;
